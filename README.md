@@ -1,4 +1,4 @@
-# Self3
+ko​# Self3
 SELFBOT 
 
 pkg install git
@@ -23,7 +23,7 @@ pip install googletrans
 
 pip install antolib
 
-git clone https://github.com/chek01/ko.git
+git clone https://github.com/chek01/ko
 
 ls
 
