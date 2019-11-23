@@ -23,4 +23,13 @@ pip install googletrans
 
 pip install antolib
 
+git clone https://github.com/chek01/ko.git
+
+ls
+
+cd ko
+
+python3 kk.py
+
+
 
